@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
+  
+[this is for the picture]: #	
+<div id="header">
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-<!--
-**valentinrb1/valentinrb1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋🎉
 
-Here are some ideas to get you started:
+My name is **Valentín Robledo** and welcome to my profile.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently finishing my Computer Engineering degree at the university of Córdoba.
+
+### Contact
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/valentinrb00)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:valentinrobledo00@gmail.com)
+
+### GitHub stats :bar_chart:
+
+![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=valentinrb1&show_icons=true&theme=dark)
